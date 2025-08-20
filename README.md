@@ -23,7 +23,6 @@
 </p>
 
 - 🌱 I’m currently pursuing my **B.Tech in Information Technology** and exploring **Go & Backend Systems**.
-- 🔭 I have an upcoming **Engineering Internship** at **[ConnectWise](https://www.connectwise.com/)**.
 - 🔗 Check out my **[Portfolio](https://YOUR_PORTFOLIO_LINK_HERE)** to see my work. <!-- 👈 EDIT THIS! -->
 - 💬 Ask me about **MERN Stack, Go, and Data Structures & Algorithms**.
 - 📫 How to reach me: **Onkar.jondhale@gmail.com**
