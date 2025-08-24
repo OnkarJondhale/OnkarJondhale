@@ -23,7 +23,7 @@
 </p>
 
 - 🌱 I’m currently pursuing my **B.Tech in Information Technology** and exploring **Go & Backend Systems**.
-- 🔗 Check out my **[Portfolio](https://YOUR_PORTFOLIO_LINK_HERE)** to see my work. <!-- 👈 EDIT THIS! -->
+- 🔗 Check out my **[Portfolio]([https://YOUR_PORTFOLIO_LINK_HERE](https://portfolio-three-gilt-13.vercel.app/))** to see my work. <!-- 👈 EDIT THIS! -->
 - 💬 Ask me about **MERN Stack, Go, and Data Structures & Algorithms**.
 - 📫 How to reach me: **Onkar.jondhale@gmail.com**
 - ⚡ Fun fact: **I'm a Knight (Top 8%) on LeetCode!**
