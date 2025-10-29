@@ -1,16 +1,5 @@
-<!-- 
-  INSTRUCTIONS: 
-  1. I have already added your GitHub username 'OnkarJondhale'.
-  2. You just need to replace the placeholder URLs for your Portfolio and LinkedIn profile.
-  3. OPTIONAL BUT RECOMMENDED: Replace the 'src' for the header GIF with a stable link you control.
--->
 
-<!-- 
-  NOTE: This header link from wixmp can be unstable. For a permanent solution, 
-  download the GIF and upload it to this repository, then use the new link.
--->
-<p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG9wbmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8" alt="Header GIF" />
+<p align="center">  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG9wbmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8" alt="Header GIF" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Onkar Jondhale</h1>
@@ -68,3 +57,5 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=OnkarJondhale&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+[![An image of @onkarjondhale's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/onkarjondhale)](https://holopin.io/@onkarjondhale)
