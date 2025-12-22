@@ -55,7 +55,7 @@
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=OnkarJondhale&theme=vue-dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=OnkarJondhale&theme=tokyonigh" alt="GitHub Streak" />
 </p>
 
 [![An image of @onkarjondhale's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/onkarjondhale)](https://holopin.io/@onkarjondhale)
