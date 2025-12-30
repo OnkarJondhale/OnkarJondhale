@@ -1,7 +1,7 @@
 
 <!-- ANIMATED HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Onkar%20Jondhale&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Backend%20Enthusiast&descAlignY=52&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Onkar%20Jondhale&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descAlignY=52&descSize=18" width="100%"/>
 </p>
 
 <!-- TYPING ANIMATION -->
@@ -25,7 +25,7 @@
 ---
 
 <!-- MAIN CONTENT WITH IMAGE -->
-<img align="right" alt="Coding" height="320" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" />
+<img align="right" alt="Coding" height="300" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" />
 
 ```yaml
 name: Onkar Jondhale
