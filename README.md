@@ -6,7 +6,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=5000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=150&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;MERN+Stack+%2B+Springboot+Developer+%F0%9F%92%BB;Knight+on+LeetCode+%E2%9A%94%EF%B8%8F+Top+2%25;Specialist+On+Codeforces+%F0%9F%8C%9F" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=150&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;MERN+Stack+%2B+Springboot+Developer+%F0%9F%92%BB;Knight+on+LeetCode+%E2%9A%94%EF%B8%8F+Top+2%25;Specialist+On+Codeforces+%F0%9F%8C%9F" alt="Typing SVG" /></a>
 </p>
 
 <!-- PROFILE VIEWS & SOCIAL BADGES -->
@@ -50,10 +50,9 @@ interests:
 
 ---
 
+<p align="center"> 🎯 What I'm Up To </p>
+
 <div align="center">
-  
-  <h2>🎯 What I'm Up To</h2>
-  
   <p>
     <img src="https://img.shields.io/badge/%F0%9F%94%AD%20Currently-Scalable%20Backend%20Projects-8b5cf6?style=for-the-badge" alt="Currently"/>
     &nbsp;
@@ -99,7 +98,7 @@ interests:
 
 <p align="center"> 🛠️ Tech Arsenal </p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,go,react,redux,nodejs,express,mongodb,postgres,mysql,html,css,tailwind,materialui,git,docker,jest,linux&#38;perline=10&#38;theme=dark" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,java,spring,go,react,redux,nodejs,express,mongodb,postgres,mysql,html,css,tailwind,materialui,git,docker,jest,linux&#38;perline=10&#38;theme=dark" alt="Skills" />
 </p>
 
 ---
