@@ -25,7 +25,7 @@
 ---
 
 <!-- MAIN CONTENT WITH IMAGE -->
-<img align="right" alt="Coding" height="300" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" />
+<img align="right" alt="Coding" height="250" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" />
 
 ```yaml
 name: Onkar Jondhale
