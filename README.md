@@ -98,7 +98,7 @@ interests:
 
 <p align="center"> 🛠️ Tech Arsenal </p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,java,spring,go,react,redux,nodejs,express,mongodb,postgres,mysql,html,css,tailwind,materialui,git,docker,jest,linux&#38;perline=10&#38;theme=dark" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,java,spring,go,react,redux,nodejs,express,mongodb,postgres,mysql,html,css,tailwind,materialui,git,docker,jest,linux,kafka,redis,kubernetes&#38;perline=10&#38;theme=dark" alt="Skills" />
 </p>
 
 ---
